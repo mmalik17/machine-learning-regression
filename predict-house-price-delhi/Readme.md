@@ -1,4 +1,5 @@
-# Predict House Price in Delhi NCR with Machine Learning
+# Project Overview: Predict House Price in Delhi NCR with Machine Learning
+This project has a purpose to create machine learning model that can predict the house price in New Delhi.
 
 # <b> Requirement for running the code </b>
 Library needed to be installed:
@@ -9,23 +10,22 @@ Machine Learning: sklearn
 ## Background Problems
 For the people that want to buy the house, sometimes it is difficult to identify whether the house price is normal or overvalued. The bunch of features (bedroom, bathroom, location, etc) in each house could make it more difficult to compare the prices between the house
 ## Purpose
-This project has a purpose to predict house price in New Delhi with machine learning. With this machine learning model, comparing the prices between the houses will be easier and more automated 
+With this machine learning model, comparing the prices between the houses will be easier and more automated 
 
-# <b> 2. Data Understanding and Preparation </b>
-## Feature that available
-## Data Preprocessing
+# <b> 2. Data Preparation </b>
+1. Data Cleansing
+ - removing the column that not related
+ - Check missing value and handle it
+ - Check data type
+ - Check value of every column to see whether the value is make sense or not
+2. Feature Engineering
+Extract the city value from address feature  
+3. Outlier removal
+- Outlier removal with business logic
+- Outlier removal with mean and standar deviation
+4. One Hot Encoding for categorical column
 
 # <b> 3. Machine Learning Modelling </b>
-## Modelling Process
-## Model Evaluation
-
-# <b> 4. Business Insight </b>
-## Evaluation
-## Action Items  
 
 
-This project has a purpose to predict house price in New Delhi with machine learning. Before applying to machine learning, I perform data preparation by:
-- removing the column that not related
-- Feature Engineering
-- Outlier removal
-- One Hot Encoding for categorical column
+
