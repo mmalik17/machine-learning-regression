@@ -14,15 +14,15 @@ With this machine learning model, comparing the prices between the houses will b
 
 # <b> 2. Data Preparation </b>
 1. Data Cleansing
- - removing the column that not related
- - Check missing value and handle it
- - Check data type
- - Check value of every column to see whether the value is make sense or not
+  - Removing the column that not related
+  - Check missing value and handle it
+  - Check data type
+  - Check value of every column to see whether the value is make sense or not
 2. Feature Engineering
 Extract the city value from address feature  
 3. Outlier removal
-- Outlier removal with business logic
-- Outlier removal with mean and standar deviation
+  - Outlier removal with business logic
+  - Outlier removal with mean and standar deviation
 4. One Hot Encoding for categorical column
 
 # <b> 3. Machine Learning Modelling </b>
