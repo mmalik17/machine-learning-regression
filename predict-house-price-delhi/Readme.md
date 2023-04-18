@@ -2,8 +2,8 @@
 This project has a purpose to create machine learning model that can predict the house price in New Delhi.
 
 # <b> Requirement for running the code </b>
-Library needed to be installed:
-Data analysis and visualization: numpy, pandas, matplotlib, pyplot
+Library needed to be installed: <br>
+Data analysis and visualization: numpy, pandas, matplotlib, pyplot <br>
 Machine Learning: sklearn
 
 # <b> 1. Business Understanding </b>
