@@ -12,12 +12,14 @@ For the people that want to buy the house, sometimes it is difficult to identify
 ## Purpose
 With this machine learning model, comparing the prices between the houses will be easier and more automated 
 
-# <b> 2. Data Preparation </b>
-- Data Cleansing
-  - Removing the column that not related
-  - Check missing value and handle it
+# <b> 2. Data Understanding and Preparation </b>
+- Data Understanding
+  - Check the column name to see whether the column is important or not
   - Check data type
   - Check value of every column to see whether the value is make sense or not
+- Data Cleansing
+  - Removing the column that not related
+  - Drop missing value
 - Feature Engineering
 - Outlier removal
   - Outlier removal with business logic
